@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\bin\Debug\net6.0\2.constructors.exe
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\bin\Debug\net6.0\2.constructors.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\bin\Debug\net6.0\2.constructors.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\bin\Debug\net6.0\2.constructors.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\bin\Debug\net6.0\2.constructors.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\refint\2.constructors.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\2.constructors.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\2.constructors\2.constructors\obj\Debug\net6.0\ref\2.constructors.dll
