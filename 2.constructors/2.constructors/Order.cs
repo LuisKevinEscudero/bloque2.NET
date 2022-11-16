@@ -1,10 +1,8 @@
 ﻿namespace Constructors
 {
-    public partial class Program
-	{
-        public class Order
-        {
+    public class Order
+    {
 
-        }
     }
+
 }

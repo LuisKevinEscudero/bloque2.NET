@@ -5,11 +5,14 @@
         public int Id;
         public string Name;
 
+        public List<Order> Orders;
+
         public Customer()
         {
-
+            Orders = new List<Order>();
         }
         public Customer(int id)
+            :this()
         {
             this.Id = id;
         }
