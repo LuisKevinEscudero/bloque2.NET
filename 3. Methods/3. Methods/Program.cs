@@ -5,9 +5,14 @@
 	{
         static void Main(string[] args)
         {
-            var calculator = new Calculator();
-            Console.WriteLine(calculator.Add(1,2));
+            
 
+        }
+
+        static void userParams()
+        {
+            var calculator = new Calculator();
+            Console.WriteLine(calculator.Add(1, 2));
         }
         
         static void usePoints()
