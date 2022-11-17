@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\bin\Debug\net6.0\ej1.StopWatch.exe
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\bin\Debug\net6.0\ej1.StopWatch.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\bin\Debug\net6.0\ej1.StopWatch.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\bin\Debug\net6.0\ej1.StopWatch.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\bin\Debug\net6.0\ej1.StopWatch.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\refint\ej1.StopWatch.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ej1.StopWatch.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej1.StopWatch\ej1.StopWatch\obj\Debug\net6.0\ref\ej1.StopWatch.dll
