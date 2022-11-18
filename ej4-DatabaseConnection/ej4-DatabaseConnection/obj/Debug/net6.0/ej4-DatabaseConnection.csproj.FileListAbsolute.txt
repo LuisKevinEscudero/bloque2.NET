@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\bin\Debug\net6.0\ej4-DatabaseConnection.exe
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\bin\Debug\net6.0\ej4-DatabaseConnection.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\bin\Debug\net6.0\ej4-DatabaseConnection.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\bin\Debug\net6.0\ej4-DatabaseConnection.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\bin\Debug\net6.0\ej4-DatabaseConnection.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\refint\ej4-DatabaseConnection.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ej4-DatabaseConnection.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej4-DatabaseConnection\ej4-DatabaseConnection\obj\Debug\net6.0\ref\ej4-DatabaseConnection.dll

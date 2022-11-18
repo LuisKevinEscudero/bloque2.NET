@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ej4-DatabaseConnection/1.0.0": {
+        "runtime": {
+          "ej4-DatabaseConnection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej4-DatabaseConnection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
