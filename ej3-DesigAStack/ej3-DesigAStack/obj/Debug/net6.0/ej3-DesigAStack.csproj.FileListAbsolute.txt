@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\bin\Debug\net6.0\ej3-DesigAStack.exe
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\bin\Debug\net6.0\ej3-DesigAStack.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\bin\Debug\net6.0\ej3-DesigAStack.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\bin\Debug\net6.0\ej3-DesigAStack.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\bin\Debug\net6.0\ej3-DesigAStack.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\refint\ej3-DesigAStack.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ej3-DesigAStack.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\ej3-DesigAStack\ej3-DesigAStack\obj\Debug\net6.0\ref\ej3-DesigAStack.dll
