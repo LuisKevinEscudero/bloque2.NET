@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\bin\Debug\net6.0\Extensibility.exe
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\bin\Debug\net6.0\Extensibility.deps.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\bin\Debug\net6.0\Extensibility.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\bin\Debug\net6.0\Extensibility.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\bin\Debug\net6.0\Extensibility.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\refint\Extensibility.dll
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.pdb
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\Extensibility.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\bloque2.NET\Extensibility\Extensibility\obj\Debug\net6.0\ref\Extensibility.dll
