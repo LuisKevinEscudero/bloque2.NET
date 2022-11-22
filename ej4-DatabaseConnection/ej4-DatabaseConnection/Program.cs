@@ -52,6 +52,10 @@ namespace DatabaseConnection
             var oracleConnection = new OracleConnection("Oracle Connection String");
             oracleConnection.OpenConnection();
             oracleConnection.CloseConnection();
+
+            var dbCommand = new DbCommand(sqlConnection, "SQL Command");
+            dbCommand.Execute();
+
         }
     }
 }
